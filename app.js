@@ -1,7 +1,7 @@
 let numeroSecreto = (0);
 let intentos =0;
 let listaNumerosSorteados = [];
-console.log(numeroSecreto);
+//console.log(numeroSecreto);
 let numeroMaximo = 10;
 
 //console.log(numeroSecreto);
